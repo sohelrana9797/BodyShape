@@ -25,6 +25,7 @@ This project showcases key fitness concepts with clean design and easy-to-unders
 
 - HTML5
 - CSS3
+- TailwindCss
 - Responsive Design Principles
 
 ## 📁 How to Use
